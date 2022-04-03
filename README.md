@@ -5,6 +5,7 @@ Notas:
 - Definir cuáles son los más comunes y si se instalan fácil o no, y si son fáciles de usar
 - La estructura puede ser algo como:
   - Errores comunes
+  - Tal vez hablar entre la diferencia entre debuggers de código y de sistemas embebidos
   - Lista de depuradores
   - Explicación de los más comunes
 
