@@ -1,3 +1,6 @@
+Páginas:
+https://www.embedded.com/the-ten-secrets-of-embedded-debugging/
+
 Notas:
 
 - Montar mapa conceptual para delimitar tema
