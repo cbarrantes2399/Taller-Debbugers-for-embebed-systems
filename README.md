@@ -57,3 +57,22 @@ Remote debuggers:
   Since program being debugged runs on different HW than debugger, lots of interaction:
   - start restart kill step
   - software breakpoints
+
+Notas sobre enlace de arriba "The ten secrets of embedded debugging".
+
+Tipos de debugging/debuggers:
+- source-level debuggers
+- simple printfs o equivalentes
+- in-circuit emulators (ICE) JTAG debuggers
+- data monitors
+- operating system monitors
+- profilers
+- memory testers
+- execution tracers
+- coverage testers
+
+1. Find memory problems early
+  - leaks : leak-detection tools
+  - fragmentation : memory mapping tools
+  - corrupction : testing
+2. 
